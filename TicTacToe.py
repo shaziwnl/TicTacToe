@@ -8,7 +8,7 @@ root.title("Tic-Tac-Toe Game")
 # By default no button is clicked so false
 clicked = False
 
-# Number of moves
+# Count keeps track of the number of moves
 count = 0
 
 # Button Click Function
